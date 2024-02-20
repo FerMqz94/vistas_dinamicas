@@ -1,0 +1,4 @@
+Transformar la sección del menú para mostrar el nombre del plato, la descripción                         
+y el precio dinámicamente. 
+
+/detalle/id
